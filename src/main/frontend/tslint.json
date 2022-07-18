@@ -51,7 +51,7 @@
       "info",
       "time",
       "timeEnd",
-      "trace"
+      "tracee"
     ],
     "no-construct": true,
     "no-debugger": true,
